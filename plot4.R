@@ -1,4 +1,5 @@
 source("loadTable.R")
+source("plot3.R")
 plot4 <- function(data = loadTable() , dims = c(480,480))
 {
 
